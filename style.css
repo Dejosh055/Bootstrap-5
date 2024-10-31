@@ -1,0 +1,11 @@
+@media(min-width:768px){
+section{
+font-size: 30px;
+}
+.newsinput{
+    justify-content: start;
+    width: 40%;
+
+}
+
+}
